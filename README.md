@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sardar Hossaini</h1>
 <h3 align="center">I'm Frontend Developer💻 & Mobile App developer📱 & UI/UX designers🖥️</h3>
-
-<p align="left"> <img src="https://www.linkedin.com/in/sardar-hussaini/overlay/background-image/" alt="sardar219" /> </p>
+<div><img align="center" alt="Coding" src="https://github.com/Sardar219/Sardar219/blob/main/Linkedin%20banner%20cover.jpg" ></div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<p align="left"> <img src="Linkedin banner cover.jpg" alt="sardar219" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sardar626285221" target="blank"><img src="https://img.shields.io/twitter/follow/sardar626285221?logo=twitter&style=for-the-badge" alt="sardar626285221" /></a> </p>
 
